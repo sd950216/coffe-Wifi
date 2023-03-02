@@ -1,0 +1,32 @@
+/* This CSS file will need to be added to the styling of 
+your web pages for the styles to be rendered. */
+
+body {
+  background-image: url('../back.jpg');
+  background-size: cover;
+  background-position: center;
+
+
+    color: white;
+}
+
+a {
+    color: #ffc107;
+}
+
+.text-center {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+        font-size: 1.6rem;
+
+
+}
+
+.space-above {
+    margin-top: 10px;
+}
+.data,table{
+  background-color: rgba(57, 62, 70, 0.5);
+}
